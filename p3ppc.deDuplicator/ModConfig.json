@@ -2,7 +2,7 @@
   "ModId": "p3ppc.deDuplicator",
   "ModName": "P3P De-Duplicator",
   "ModAuthor": "AnimatedSwine37",
-  "ModVersion": "1.0.0",
+  "ModVersion": "1.0.1",
   "ModDescription": "Prevents the game from requiring some duplicate files.",
   "ModDll": "p3ppc.deDuplicator.dll",
   "ModIcon": "Preview.png",
